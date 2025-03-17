@@ -135,14 +135,14 @@
 
     <section class="image-map">
         <h2 id="contact">Contact Us</h2>
-	<p>Facebook: Feona Lovitos & Beverly Mina</p>
-	<p>Instagram: @feona & @beverly</p>
-	<p>Email: feona@gmail.com</p>
-	<p>Contact#: 09999999 </p>    
+	<p>Facebook: Feona Lovitos & Bevemae Mina</p>
+	<p>Instagram: @f.nx_l & @bmaeMina</p>
+	<p>Email: feonalovitos123@gmail.com | beveymaeMina@gmail.com</p>
+	<p>Contact#: 09297813747 | 09456587125 </p>    
     </section>
     
     <footer>
-        <p>&copy; 2025 My Portfolio | Contact: email@example.com</p>
+        <p>&copy; 2025 Feona Lovitos | Beveymae Mina BSIT 1 section 4</p>
     </footer>
 </body>
 </html>
